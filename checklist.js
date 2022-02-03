@@ -29,8 +29,23 @@
 //     console.log(arrName[i]);
 // }
 
-var pointNumber = [ 85, 36, 69, 95, 12, 89, 100, 25];
-let i=0;
-    console.log(pointNumber[i]>80);
-// 
+// var pointNumber = [ 85, 36, 69, 95, 12, 89, 100, 25];
+// // let i=pointNumber.length;
+// if(pointNumber>80){
+//     console.log(pointNumber);
+// }
+ 
+// var num1=10;
+// var num2 = 10;
+// var num3 = 3;
+
+//     const result = num1*num2*num3;
+    
+//  console.log(result);
+
+
+  
+
+    
+
 
