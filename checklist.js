@@ -44,8 +44,21 @@
 //  console.log(result);
 
 
-  
+  // var list = {
+  //     names : "mr"
+  //     names : "sr"
+  //     names :"fr"
+      
+  // }
 
     
+//   var pointNumber = [ 85, 36, 69, 95, 12, 89, 100, 25];
+//  for(let i=0; i< pointNumber.length; i++){
+//   if(pointNumber[i]>80){
 
+//     console.log(pointNumber[i]);
 
+//   }
+//  }
+   
+     
